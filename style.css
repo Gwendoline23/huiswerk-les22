@@ -1,0 +1,22 @@
+input[type="text"], input[type="email"],textarea, button{
+    display: block;
+    margin: 20px 5px;
+    box-sizing: border-box;
+    width: 300px;
+   float: center
+   }
+button{
+    background-color: grey;
+}
+form{
+    display: block; 
+    margin: auto;
+    font-family: fantasy;
+    font-size: medium;
+}
+body{
+    background-color: palevioletred;
+}
+foother{
+    margin-block-start: auto;
+}
